@@ -2,7 +2,7 @@
 
 ## Awesome Claude Skills 中文版
 
-本项目是对原始 [Awesome Claude Skills](https://github.com/anthropics/skills) 项目的完整汉化版本，旨在为中文用户提供更友好和便捷的使用体验。
+本项目是对原始 [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills) 项目的完整汉化版本，旨在为中文用户提供更友好和便捷的使用体验。
 
 ### 什么是本项目
 

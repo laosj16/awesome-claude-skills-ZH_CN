@@ -34,7 +34,7 @@
 </div>
 
 <p align="center">
-  <a href="./README.md">🌐 简体中文</a>
+  <a href="./README.md">🌐 简体中文</a> | <a href="./DESCRIPTION.md">📖 Project Description</a>
 </p>
 
 A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai, Claude Code, but also across coding agents like Codex, Cursor, Gemini CLI, Antigravity and more.

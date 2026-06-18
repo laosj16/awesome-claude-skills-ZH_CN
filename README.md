@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
-  <a href="./README_us.md">🌐 English</a>
+  <a href="./README_us.md">🌐 English</a> | <a href="./DESCRIPTION.md">📖 项目说明</a>
 </p>
 
 一份精心整理的 1000+ 个生产可用的实用 Claude Skills 与插件列表，覆盖多种使用场景，不仅适用于 Claude.ai 和 Claude Code，也适用于 Codex、Cursor、Gemini CLI、Antigravity 等各类编程 Agent。
